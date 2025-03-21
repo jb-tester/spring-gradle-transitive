@@ -1,4 +1,4 @@
-package ch.ranil.sandbox.springboot
+package com.mytests.spring.springGradleTranstiveDependencies
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

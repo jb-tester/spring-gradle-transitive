@@ -7,7 +7,7 @@ plugins {
     kotlin("plugin.spring") version "1.7.22"
 }
 
-group = "ch.ranil.sandbox"
+group = "com.mytests.spring"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_17
 

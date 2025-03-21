@@ -1,4 +1,4 @@
-package ch.ranil.sandbox.springboot
+package com.mytests.spring.springGradleTranstiveDependencies
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

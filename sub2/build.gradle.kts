@@ -13,6 +13,7 @@ java.sourceCompatibility = JavaVersion.VERSION_17
 
 dependencies {
     implementation("org.springframework:spring-context:6.0.4")
+    implementation(project(":sub3"))
 }
 
 tasks.withType<KotlinCompile> {
